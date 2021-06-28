@@ -1,6 +1,5 @@
 <h1>購入商品一覧</h1>
 <% if user_signed_in? %>
-<%= binding.pry %>
   <% @items.each do |item| %>
     <p><%= item.name %> : <%= item.price %> : <%= item.user.nickname.present? ? "購入者 #{item.user.nickname}" : "会員No.#{item.user.id}" %></p>
   <% end %>
