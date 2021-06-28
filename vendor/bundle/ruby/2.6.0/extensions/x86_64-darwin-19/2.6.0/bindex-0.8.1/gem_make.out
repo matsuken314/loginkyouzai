@@ -1,0 +1,15 @@
+current directory: /Users/kanazawaboy/Desktop/yanbaru/rails/devise_sample/vendor/bundle/ruby/2.6.0/gems/bindex-0.8.1/ext/skiptrace
+/Users/kanazawaboy/.rbenv/versions/2.6.5/bin/ruby -I /Users/kanazawaboy/.rbenv/versions/2.6.5/lib/ruby/2.6.0 -r ./siteconf20210627-43134-2zfp6z.rb extconf.rb
+creating Makefile
+
+current directory: /Users/kanazawaboy/Desktop/yanbaru/rails/devise_sample/vendor/bundle/ruby/2.6.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" clean
+
+current directory: /Users/kanazawaboy/Desktop/yanbaru/rails/devise_sample/vendor/bundle/ruby/2.6.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR="
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.bundle
+
+current directory: /Users/kanazawaboy/Desktop/yanbaru/rails/devise_sample/vendor/bundle/ruby/2.6.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cruby.bundle ./.gem.20210627-43134-e0ueox/skiptrace/internal

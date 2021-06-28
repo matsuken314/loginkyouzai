@@ -1,0 +1,19 @@
+current directory: /Users/kanazawaboy/Desktop/yanbaru/rails/devise_sample/vendor/bundle/ruby/2.6.0/gems/byebug-11.1.3/ext/byebug
+/Users/kanazawaboy/.rbenv/versions/2.6.5/bin/ruby -I /Users/kanazawaboy/.rbenv/versions/2.6.5/lib/ruby/2.6.0 -r ./siteconf20210627-43134-6wdvy4.rb extconf.rb
+creating Makefile
+
+current directory: /Users/kanazawaboy/Desktop/yanbaru/rails/devise_sample/vendor/bundle/ruby/2.6.0/gems/byebug-11.1.3/ext/byebug
+make "DESTDIR=" clean
+
+current directory: /Users/kanazawaboy/Desktop/yanbaru/rails/devise_sample/vendor/bundle/ruby/2.6.0/gems/byebug-11.1.3/ext/byebug
+make "DESTDIR="
+compiling breakpoint.c
+compiling byebug.c
+compiling context.c
+compiling locker.c
+compiling threads.c
+linking shared-object byebug/byebug.bundle
+
+current directory: /Users/kanazawaboy/Desktop/yanbaru/rails/devise_sample/vendor/bundle/ruby/2.6.0/gems/byebug-11.1.3/ext/byebug
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 byebug.bundle ./.gem.20210627-43134-1t9uzgl/byebug
